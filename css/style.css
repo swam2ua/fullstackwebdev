@@ -25,6 +25,7 @@ body{
     display: flex;
     flex-wrap: wrap;
     position: fixed;
+    z-index: 999;
 }
 .logo{
     width: 30%;
@@ -168,4 +169,34 @@ text-align: center;
     text-align: left;
      place-items: center;
     text-decoration: none;
+}
+
+.plan{
+    width: 80%;
+    margin-left: 10%;
+    background: blue;
+    opacity: 0.8;    
+}
+
+.plan h3{
+    margin-left: 320px;
+    opacity: 1;
+    color: white;
+    font-family: 'Robot', sans-serif;
+
+}
+.plan p{
+    margin-left: 320px;
+    opacity: 1;
+    color: white;
+    font-family: 'Robot', sans-serif; 
+}
+
+.plan h3:first-child{
+margin-top: 0;
+padding-top: 150px;
+}
+
+.plan p:last-child{
+    padding-bottom: 50px;
 }
