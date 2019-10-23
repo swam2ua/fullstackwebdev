@@ -1,0 +1,147 @@
+body{
+    margin-top: 0;
+    margin-left: 0;
+    margin: 0;
+    background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+ background-position: top;
+ background-image:url(http://bit.ly/2gPLxZ4);
+ width: 100%;
+ height: 100%;
+ font-family: Arial, Helvetica;
+ letter-spacing: 0.02em;
+  font-weight: 400;
+ -webkit-font-smoothing: antialiased;
+}
+.main{
+    height: 64px;
+}
+
+.top{
+    width: 100%;
+    background-color: rgb(205, 206, 206);
+    opacity: 0.9;
+    display: flex;
+    flex-wrap: wrap;
+    position: fixed;
+}
+.logo{
+    width: 30%;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.l{
+    width: 40%;
+
+}
+.n{
+    padding-top: 12px;
+    width: 60%;
+    font-family: 'Roboto', sans-serif;
+    color: maroon;
+    font-weight: bolf;
+    font-size: 30px;
+}
+
+.logo img{
+    width: 64px;
+    height: 64px;
+    
+}
+.menu{
+    width: 70%;
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: maroon;
+}
+.menu a{
+    margin-left: 15%;
+    
+    text-decoration: none;
+}
+
+a:visited{
+    color: maroon;
+}
+
+.title{
+    margin-left: 10%;
+    width: 80%;
+    height: 600px;
+    background: url(../img/freelance-informatique-télétravail.jpg);
+    background-repeat: round;
+    
+}
+
+.text{
+    
+    font-size: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 10%;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+text-shadow: 3px 5px 2px #474747;
+text-align: center;
+}
+
+.since{
+    width: 80%;
+    margin-left: 10%;
+    background: grey;
+    opacity: 0.8;
+}
+
+.from{
+    padding-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.team{
+    /* margin-top: 50px; */
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+.team h2{
+    margin-top: 0;
+    padding-top: 20px;
+}
+.content{
+    margin-top: 50px;
+    width: 50%;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
+
+
+.content h3{
+    /* margin-left: 15px; */
+    text-align: center;
+    margin-bottom: 10px;
+}
+.content img{
+    width: 70px;
+    height: 80px;
+    opacity: 0.99;
+}
+
+.content p {
+    font-size: 14px;
+    width: 70%;
+    margin-left: 15%;
+    font-weight: normal;
+    margin-top: 0px;
+}
+
