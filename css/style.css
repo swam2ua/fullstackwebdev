@@ -55,6 +55,7 @@ body{
     width: 70%;
     text-align: center;
     margin-top: 20px;
+    
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
     color: maroon;
@@ -182,14 +183,17 @@ text-align: center;
     margin-left: 320px;
     opacity: 1;
     color: white;
-    font-family: 'Robot', sans-serif;
+    font-family: 'MiLanProVF';
+    font-weight: 900;
+    letter-spacing: 2px;
 
 }
 .plan p{
     margin-left: 320px;
     opacity: 1;
     color: white;
-    font-family: 'Robot', sans-serif; 
+    font-family: 'MiLanProVF'; 
+    font-weight: 700;
 }
 
 .plan h3:first-child{
