@@ -203,4 +203,42 @@ padding-top: 150px;
 
 .plan p:last-child{
     padding-bottom: 50px;
+    margin-bottom: 0;
+}
+
+.dummy{
+    background: grey;
+    opacity: 0.8;
+    width: 80%;
+    margin-left: 10%;
+    text-shadow: 0px 1px 0px  midnightblue;
+}
+
+.head{
+    opacity: 1;
+font-family: 'MiLanProVF';
+font-size: 32px;
+text-align: center;
+padding-top: 50px;
+color: black;
+}
+
+.littleHead{
+    opacity: 1;
+    font-family: 'MiLanProVF';
+    font-size: 22px;
+    text-align: center;
+    padding-top: 30px;
+    color: black;
+}
+.sometext{
+    opacity: 1;
+    font-family: 'Roboto';
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    padding-top: 15px;
+    color: black;
+    padding-left: 25%;
+    padding-right: 25%;
 }
